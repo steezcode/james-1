@@ -1,0 +1,16 @@
+push new changes to a branch
+
+---  git add .  --- 
+---  git commit -m 'text here'  ---
+---  git push  ---
+
+
+--- go to a different branch
+
+---  git checkout name of branch (main, feature/name-here, etc)  ---
+---  git fetch  ---
+---  git pull  ---
+
+create a new branch
+
+---  git checkout -b 'features/name here'  ---
