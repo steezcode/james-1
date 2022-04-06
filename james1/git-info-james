@@ -4,6 +4,11 @@ push new changes to a branch
 ---  git commit -m 'text here'  ---
 ---  git push  ---
 
+pull all changes
+
+---  git fetch  ---
+---  git pull  ---
+
 
 --- go to a different branch
 
